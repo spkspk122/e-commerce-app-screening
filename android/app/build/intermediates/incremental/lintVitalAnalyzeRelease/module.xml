@@ -1,0 +1,19 @@
+<lint-module
+    format="1"
+    dir="/Users/db-mm-00/Desktop/reactNativeE-comApp/AwesomeProject/android/app"
+    name=":app"
+    type="APP"
+    maven="AwesomeProject:app:"
+    gradle="7.0.4"
+    buildFolder="build"
+    bootClassPath="/Users/db-mm-00/Library/Android/sdk/platforms/android-33/android.jar:/Users/db-mm-00/Library/Android/sdk/build-tools/30.0.2/core-lambda-stubs.jar"
+    javaSourceLevel="1.8"
+    compileTarget="android-33"
+    neverShrinking="true">
+  <lintOptions
+      abortOnError="true"
+      absolutePaths="true"
+      checkReleaseBuilds="true"
+      explainIssues="true"/>
+  <variant name="release"/>
+</lint-module>
